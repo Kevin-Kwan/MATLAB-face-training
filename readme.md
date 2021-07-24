@@ -1,3 +1,5 @@
+below are basic instructions and the first version of the readme that i wrote in 2019, i havent finished polishing the readme, but i will sometime later in the future <br>
+
 <p class="has-line-data" data-line-start="0" data-line-end="11">Open “TrainingChooseOneImageFromTestFolder” in the TrainingFaceRecog folder<br>
 Go into “Faces” folder and create folders with category names of people (labels). Fill them with regular colored pictures of the people.<br>
 Go into the “test” folder and paste the images of people you want to identify after training.<br>
