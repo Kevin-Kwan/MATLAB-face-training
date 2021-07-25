@@ -1,8 +1,9 @@
-Basically, a modified version of the code from one of [MathWorks' "Deep Learning for Computer Vision" Webinar](https://www.mathworks.com/matlabcentral/fileexchange/62558-demos-from-deep-learning-for-computer-vision-webinar) where I just experimented with the code, messed with it, and got it to work.
+Basically, a modified version of the code from one of [MathWorks' "Deep Learning for Computer Vision" Webinar](https://www.mathworks.com/matlabcentral/fileexchange/62558-demos-from-deep-learning-for-computer-vision-webinar) where I just experimented with the code, messed with it, and got it to work. This was my first time using MATLAB and I didn't really know what I was doing, so this was a little individual adventure for me to explore MATLAB and try to get something to work.
 
-Resources Used:
-https://www.mathworks.com/support/search.html/videos/deep-learning-for-computer-vision-120997.html
-
+Resources Used: <br>
+https://www.mathworks.com/support/search.html/videos/deep-learning-for-computer-vision-120997.html <br>
+https://www.mathworks.com/support/search.html?fq[]=asset_type_name:video&fq[]=category:deeplearning/deep-learning-with-images <br>
+ 
 below are basic instructions and the first version of the readme that i wrote in 2019, i havent finished polishing the readme, but i will sometime later in the future <br>
 
 <p class="has-line-data" data-line-start="0" data-line-end="11">Open “TrainingChooseOneImageFromTestFolder” in the TrainingFaceRecog folder<br>
