@@ -1,3 +1,8 @@
+Basically, a modified version of the code from one of [MathWorks' "Deep Learning for Computer Vision" Webinar] (https://www.mathworks.com/matlabcentral/fileexchange/62558-demos-from-deep-learning-for-computer-vision-webinar) where I just experimented with the code, messed with it, and got it to work.
+
+Resources Used:
+https://www.mathworks.com/support/search.html/videos/deep-learning-for-computer-vision-120997.html
+
 below are basic instructions and the first version of the readme that i wrote in 2019, i havent finished polishing the readme, but i will sometime later in the future <br>
 
 <p class="has-line-data" data-line-start="0" data-line-end="11">Open “TrainingChooseOneImageFromTestFolder” in the TrainingFaceRecog folder<br>
