@@ -1,4 +1,4 @@
-Basically, a modified version of the code from one of [MathWorks' "Deep Learning for Computer Vision" Webinar] (https://www.mathworks.com/matlabcentral/fileexchange/62558-demos-from-deep-learning-for-computer-vision-webinar) where I just experimented with the code, messed with it, and got it to work.
+Basically, a modified version of the code from one of [MathWorks' "Deep Learning for Computer Vision" Webinar](https://www.mathworks.com/matlabcentral/fileexchange/62558-demos-from-deep-learning-for-computer-vision-webinar) where I just experimented with the code, messed with it, and got it to work.
 
 Resources Used:
 https://www.mathworks.com/support/search.html/videos/deep-learning-for-computer-vision-120997.html
