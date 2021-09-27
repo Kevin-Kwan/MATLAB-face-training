@@ -4,7 +4,7 @@ Resources Used: <br>
 https://www.mathworks.com/support/search.html/videos/deep-learning-for-computer-vision-120997.html <br>
 https://www.mathworks.com/support/search.html?fq[]=asset_type_name:video&fq[]=category:deeplearning/deep-learning-with-images <br>
  
-below are basic instructions and the first version of the readme that i wrote in 2019, i havent finished polishing the readme, but i will sometime later in the future <br>
+Below are the basic instructions and the first version of the readme that I wrote in 2019. I havent finished polishing the readme, but I will sometime later in the future. <br>
 
 <p class="has-line-data" data-line-start="0" data-line-end="11">Open “TrainingChooseOneImageFromTestFolder” in the TrainingFaceRecog folder<br>
 Go into “Faces” folder and create folders with category names of people (labels). Fill them with regular colored pictures of the people.<br>
